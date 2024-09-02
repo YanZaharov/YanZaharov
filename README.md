@@ -10,7 +10,7 @@
 
 - 📍 Moscow, Russia
 - 🎓 Moscow Aviation Institute (National Research University)
-- 💻 Frontend Development
+<!--- 💻 Frontend Development -->
 
 ### 🤝 Connect with me:
 
