@@ -71,8 +71,7 @@
 <img alt="npmAndYarn" src="https://img.shields.io/badge/NPM-CB3838.svg?&style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
 <img alt="Yarn" src="https://img.shields.io/badge/Yarn-3F96BE.svg?&style=for-the-badge&logo=yarn&logoColor=fff" />&nbsp;
 
-<img alt="Vite" src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite&logoColor=7600d1
-" />&nbsp;
+<img alt="Vite" src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite&logoColor=7600d1" />&nbsp;
 
 <img alt="babel" src="https://img.shields.io/badge/Babel-F8D100.svg?&style=for-the-badge&logo=babel&logoColor=000" />&nbsp;
 
