@@ -10,7 +10,7 @@
 
 - 📍 Moscow, Russia
 - 🎓 Moscow Aviation Institute (National Research University)
-- 💻 Frontend Development
+<!--- 💻 Frontend Development -->
 
 ### 🤝 Connect with me:
 
@@ -48,7 +48,7 @@
 #### SQL/NoSQL
 
 <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<!-- <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp; -->
 
 #### Linters
 
