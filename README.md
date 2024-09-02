@@ -40,15 +40,15 @@
 
 #### Backend
 
-<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />
-<img alt="java" src="https://img.shields.io/badge/Java-8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="java" src="https://img.shields.io/badge/Java-8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 <!-- <img alt="express" src="https://img.shields.io/badge/express-90c53f.svg?&style=for-the-badge&logo=express&logoColor=fff" />&nbsp; -->
 <!-- <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0214D.svg?&style=for-the-badge&logo=nestjs&logoColor=fff" />&nbsp; -->
 
 #### SQL/NoSQL
 
 <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<!-- <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp; -->
 
 #### Linters
 
