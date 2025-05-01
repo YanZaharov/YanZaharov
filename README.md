@@ -36,6 +36,7 @@
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <!-- <img alt="reduxsaga" src="https://img.shields.io/badge/redux saga-89D96E.svg?&style=for-the-badge&logo=reduxsaga&logoColor=000" />&nbsp; -->
 
@@ -66,11 +67,10 @@
 <img alt="Vite" src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite&logoColor=7600d1" />&nbsp;
 <img alt="babel" src="https://img.shields.io/badge/Babel-F8D100.svg?&style=for-the-badge&logo=babel&logoColor=000" />&nbsp;
 <img alt="eslint" src="https://img.shields.io/badge/ESLint-4A2EC4.svg?&style=for-the-badge&logo=eslint&logoColor=fff" />&nbsp;
-<!-- <img alt="Yarn" src="https://img.shields.io/badge/Yarn-3F96BE.svg?&style=for-the-badge&logo=yarn&logoColor=fff" />&nbsp; -->
+<img alt="Yarn" src="https://img.shields.io/badge/Yarn-3F96BE.svg?&style=for-the-badge&logo=yarn&logoColor=fff" />&nbsp;
 
 ### 💭 In plans:
 
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="webpack" src="https://img.shields.io/badge/Webpack-3073D7.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
 <img alt="reactNative" src="https://img.shields.io/badge/React Native-5bcceb.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
