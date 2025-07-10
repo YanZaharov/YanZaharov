@@ -20,13 +20,30 @@
 ```javascript
 const yan = {
   location: "📍 Moscow, Russia",
-  education: "🎓 Moscow Aviation Institute (National Research University)",
+  education: "🎓 Moscow Aviation Institute",
   position: "💻 Frontend Developer",
-  passions: ["Clean Code", "UI/UX", "Performance Optimization"],
-  currentlyLearning: ["React Native", "Next.js", "GraphQL"],
+  
+  code: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
+  
+  currentlyLearning: {
+    frameworks: ["Next.js", "React Native"],
+    tech: ["GraphQL", "Web3"],
+    always: "Best Practices 🚀"
+  },
+  
+  passions: [
+    "Clean Architecture",
+    "Performance Optimization",
+    "Beautiful UI/UX"
+  ],
+  
   funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YanZaharov&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
 
 ### 🤝 Connect with me:
 
