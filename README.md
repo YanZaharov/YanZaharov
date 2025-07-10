@@ -59,8 +59,9 @@ const yan = {
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+  ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
   ![D3.js](https://img.shields.io/badge/D3.js-F68E56?style=for-the-badge&logo=d3.js&logoColor=white)
-  
+
 </div>
 
 ### 🎯 UI Libraries & Frameworks
@@ -97,10 +98,10 @@ const yan = {
 
 ### 📦 Additional Libraries
 <div align="center">
-  
+
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-  
+
 </div>
 
 ### 🔧 Tools & Software
@@ -118,15 +119,15 @@ const yan = {
 
 ---
 
-## 💡 Fun Facts
+<h2 align="center">
+  🐍 Watch the Snake eating my contributions!
+</h2>
 
 <div align="center">
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer" width="100%" />
