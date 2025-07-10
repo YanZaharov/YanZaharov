@@ -76,9 +76,9 @@
 
 <img alt="reactNative" src="https://img.shields.io/badge/React Native-5bcceb.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/GraphQL-E631AD.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <!-- <img alt="electron" src="https://img.shields.io/badge/Electron-272A38.svg?&style=for-the-badge&logo=electron&logoColor=fff" />&nbsp; -->
 <!-- <img alt="socket" src="https://img.shields.io/badge/socket.io-000000.svg?&style=for-the-badge&logo=socketdotio&logoColor=fff" />&nbsp; -->
-<img alt="graphql" src="https://img.shields.io/badge/GraphQL-E631AD.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
