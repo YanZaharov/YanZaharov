@@ -13,6 +13,10 @@
   
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YanZaharov&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -40,10 +44,6 @@ const yan = {
   funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YanZaharov&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</p>
 
 ### 🤝 Connect with me:
 
