@@ -12,6 +12,7 @@
   
   [<img alt="Telegram" src="https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
   [<img alt="VK" src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+  [<img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email]
   
 </div>
 
@@ -32,8 +33,6 @@ const yan = {
   code: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
   
   currentlyLearning: {
-    frameworks: ["Next.js", "React Native"],
-    tech: ["GraphQL", "Web3"],
     always: "Best Practices 🚀"
   },
   
@@ -145,3 +144,4 @@ const yan = {
 
 [telegram]: https://t.me/yan_zaharov
 [vk]: https://vk.com/yan_zaharov
+[email]: mailto:yanz@vk.com
