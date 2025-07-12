@@ -33,8 +33,6 @@ const yan = {
   code: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
   
   currentlyLearning: {
-    frameworks: ["Next.js", "React Native"],
-    tech: ["GraphQL", "Web3"],
     always: "Best Practices 🚀"
   },
   
