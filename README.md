@@ -42,7 +42,7 @@ const yan = {
     "Beautiful UI/UX"
   ],
   
-  funFact: "I debug with console.log and I'm proud of it! 🐛"
+  funFact: "I use dark mode because light attracts bugs 🌙"
 };
 ```
 
