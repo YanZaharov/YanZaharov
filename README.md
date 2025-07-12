@@ -146,4 +146,4 @@ const yan = {
 
 [telegram]: https://t.me/yan_zaharov
 [vk]: https://vk.com/yan_zaharov
-[email]: yan_zaharov@vk.com
+[email]: mailto:yanz@vk.com
