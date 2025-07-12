@@ -3,13 +3,15 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Frontend Developer</h3>
-  <p>Создаю современные веб-приложения с акцентом на производительность и UX</p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=React+%2B+TypeScript+Developer;Building+Interactive+Web+Apps;Always+Learning+New+Things)](https://git.io/typing-svg)
+  
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=React+%2B+TypeScript+Developer;Building+Interactive+Web+Apps;Always+Learning+New+Things)](https://git.io/typing-svg)
+  [<img alt="Telegram" src="https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+  [<img alt="VK" src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
   
 </div>
 
@@ -44,15 +46,6 @@ const yan = {
   funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
-
-### 🤝 Connect with me:
-
-<div align="center">
-  
-  [<img alt="Telegram" src="https://img.shields.io/badge/telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
-  [<img alt="VK" src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
-  
-</div>
 
 ---
 
